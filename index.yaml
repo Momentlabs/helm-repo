@@ -3,7 +3,16 @@ entries:
   athenaeum:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-05T22:02:34.607943574-07:00
+    created: 2018-10-07T17:18:52.517706479-07:00
+    description: Athenaeum core platform
+    digest: 4f5e2b3406bb1e7eddf914d6f1b2b6070dac753c5eda1df2b8ff846549556c66
+    name: athenaeum
+    urls:
+    - athenaeum-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-10-07T17:18:52.517291979-07:00
     description: Athenaeum core platform
     digest: 5e5444d35d6aa8d84359b86e3e4405d48314754658b1a18b8a7d0c1e6721b0e6
     name: athenaeum
@@ -12,11 +21,11 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-05T22:02:34.607410205-07:00
+    created: 2018-10-07T17:18:52.516233938-07:00
     description: Athenaeum core platform
     digest: 8f963dc56941ecf579c552058b6a8266f82421d2e93ba59fb49d459f99fb2dd9
     name: athenaeum
     urls:
     - athenaeum-0.0.1.tgz
     version: 0.0.1
-generated: 2018-10-05T22:02:34.605067895-07:00
+generated: 2018-10-07T17:18:52.514791195-07:00
